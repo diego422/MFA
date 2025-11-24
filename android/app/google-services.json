@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489525318411",
+    "project_id": "mfademoflutter",
+    "storage_bucket": "mfademoflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489525318411:android:7bbbb6b22613418a8c080e",
+        "android_client_info": {
+          "package_name": "com.example.mfa_mini_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNF9YsTOm3LPVtn65vyruH90cWDtgSDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489525318411:android:130a3068e5cf781f8c080e",
+        "android_client_info": {
+          "package_name": "com.example.mfa_mini_demo_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNF9YsTOm3LPVtn65vyruH90cWDtgSDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
